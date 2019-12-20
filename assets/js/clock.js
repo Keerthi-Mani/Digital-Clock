@@ -33,3 +33,7 @@ var currentMonth = months[dateOfNow.getMonth()];
 // console.log(currentMonth);
 var currentYear = dateOfNow.getFullYear();
 // console.log(currentYear);
+var displayDate = document.getElementById("date-month-year");
+var displayValues = currentMonth + " " + currentYear;
+displayDate.innerText = displayValues;
+// console.log(displayDate);
