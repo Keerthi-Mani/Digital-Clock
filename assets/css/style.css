@@ -1,9 +1,13 @@
 body {
   background-color: black;
-  color: greenyellow;
+  color: rgb(57, 245, 57);
   font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 0 auto;
 }
 
 h1 {
-  font-size: 90px;
+  font-size: 100px;
+}
+h2 {
+  font-size: 50px;
 }
