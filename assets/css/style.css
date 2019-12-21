@@ -1,12 +1,12 @@
 body {
-  background-color: black;
-  color: rgb(57, 245, 57);
+  background-image: url("../images/RFS11Bj.jpg");
+  color: white;
   font-family: Georgia, "Times New Roman", Times, serif;
   margin: 0 auto;
 }
 
 h1 {
-  font-size: 100px;
+  font-size: 150px;
 }
 h2 {
   font-size: 50px;
